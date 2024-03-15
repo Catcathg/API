@@ -1,0 +1,13 @@
+.SearchBar {
+    display: flex;
+    justify-content: center;
+    background-color:white;
+    box-shadow: none;
+}
+
+a {
+    display: flex;
+    justify-content:flex-end ;
+    font-size:x-large;
+    
+}
